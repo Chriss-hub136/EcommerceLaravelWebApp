@@ -6,7 +6,7 @@
         <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
             <div class="p-6 text-gray-900">
                 <h1 class="text-3xl font-bold mb-4 text-green-700">🏋️ Admin Control Panel: Overview</h1>
-                <p class="mb-4">Welcome Vinny! Quick metrics for your supplement store operations.</p>
+                <p class="mb-4">Welcome Christian! Quick metrics for your Gaming Gear store operations.</p>
                 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-6">
                     <a href="{{ route('admin.orders.index') }}" class="block p-4 border rounded-lg bg-yellow-50 hover:bg-yellow-100 text-yellow-800 shadow">
