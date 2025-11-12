@@ -18,9 +18,9 @@
                     <tbody class="bg-white divide-y divide-gray-200">
                         {{-- @foreach ($orders as $order) --}}
                         <tr>
-                            <td class="px-6 py-4 whitespace-nowrap">#001</td>
+                            <td class="px-6 py-4 whitespace-nowrap">#021</td>
                             <td class="px-6 py-4 whitespace-nowrap">Jasmine Fadhilah</td>
-                            <td class="px-6 py-4 whitespace-nowrap">$89.99</td>
+                            <td class="px-6 py-4 whitespace-nowrap">$134.99</td>
                             <td class="px-6 py-4 whitespace-nowrap text-red-600">Pending</td>
                             <td class="px-6 py-4 whitespace-nowrap">
                                 <a href="{{ route('admin.orders.show', 1) }}" class="text-indigo-600 hover:text-indigo-900">View Details</a>
