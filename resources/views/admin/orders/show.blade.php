@@ -14,7 +14,7 @@
 
                 <h2 class="text-xl font-semibold mb-3">Items Ordered</h2>
                 <ul class="border p-4 rounded-lg">
-                    <li>1x Headphone - $599.99</li>
+                    <li>1x Headphone - $19.00</li>
                 </ul>
 
                 <h2 class="text-xl font-semibold mt-6 mb-3">Update Order Status</h2>
