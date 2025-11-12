@@ -8,7 +8,7 @@
                 <div class="mb-6">
                     <p class="font-semibold">Customer: <span class="font-normal">Jasmine Fadhilah</span></p>
                     <p class="font-semibold">Email: <span class="font-normal">jasmine@gmail.com</span></p>
-                    <p class="font-semibold">Total: <span class="font-normal">$139.99</span></p>
+                    <p class="font-semibold">Total: <span class="font-normal">$134.99</span></p>
                     <p class="font-semibold">Status: <span class="text-red-600 font-bold">Pending</span></p>
                 </div>
 
